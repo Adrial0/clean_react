@@ -6,6 +6,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+
+        <ul id="movie-list"></ul>
+
+        <script src="script.js"></script>
+
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
